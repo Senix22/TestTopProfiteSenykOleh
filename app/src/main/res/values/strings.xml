@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestTopProfite</string>
+    <string name="add_the_product_information">Add the Product Information</string>
+    <string name="descriptin">Descriptin</string>
+    <string name="description">Description</string>
+    <string name="image">Image</string>
+    <string name="senyk_oleh_test_task">Senyk Oleh test task</string>
+    <string name="photo_url">Photo_Url</string>
+</resources>
